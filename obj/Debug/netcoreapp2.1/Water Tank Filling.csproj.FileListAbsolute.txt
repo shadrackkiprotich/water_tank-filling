@@ -1,0 +1,11 @@
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\obj\Debug\netcoreapp2.1\Water Tank Filling.csprojAssemblyReference.cache
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\obj\Debug\netcoreapp2.1\Water Tank Filling.csproj.CoreCompileInputs.cache
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\obj\Debug\netcoreapp2.1\Water Tank Filling.AssemblyInfoInputs.cache
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\obj\Debug\netcoreapp2.1\Water Tank Filling.AssemblyInfo.cs
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\bin\Debug\netcoreapp2.1\Water Tank Filling.deps.json
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\bin\Debug\netcoreapp2.1\Water Tank Filling.runtimeconfig.json
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\bin\Debug\netcoreapp2.1\Water Tank Filling.runtimeconfig.dev.json
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\bin\Debug\netcoreapp2.1\Water Tank Filling.dll
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\bin\Debug\netcoreapp2.1\Water Tank Filling.pdb
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\obj\Debug\netcoreapp2.1\Water Tank Filling.dll
+C:\Users\Shadrack myles\RiderProjects\Water Tank Filling\obj\Debug\netcoreapp2.1\Water Tank Filling.pdb
